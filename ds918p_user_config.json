@@ -2,8 +2,10 @@
     "extra_cmdline": {
         "pid": "0x0001",
         "vid": "0x46f4",
-        "sn": "1234XXX123",
-        "mac1": "XXYYXXYYXXYY"
+        "sn": "1780PDN149801",
+        "netif_num": "2",
+        "mac1": "0011327B0CE5",
+        "mac2": "0011327B0CE6"
     },
     "synoinfo": {},
     "ramdisk_copy": {},
